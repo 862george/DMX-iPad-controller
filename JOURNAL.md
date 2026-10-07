@@ -10,17 +10,19 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2h | 1 |
+| Week 1 | Tier 1 | 3h | 1 |
 
 ## Contents
 
-1. [2026-10-07 — I planned out the layout components will be connected in and what components I will need in order to build my iPad DMX control system. I ordered the parts, including:](#2026-10-07-i-planned-out-the-layout-components-will-be-conne)
+1. [2026-10-07 — ![IMG_0059](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gepdpgCNTnw0v6kE8xLPnSCMAllTDM2e/30a73556e8932887255b11d9ae82d2056733fafbb4699752e1f050a7fad7390d.jpg)](#2026-10-07-img0059httpshalflifehackclub-assetscomhackclub-ha)
 
 ## Design
 
-### 2026-10-07 — I planned out the layout components will be connected in and what components I will need in order to build my iPad DMX control system. I ordered the parts, including:
+### 2026-10-07 — ![IMG_0059](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gepdpgCNTnw0v6kE8xLPnSCMAllTDM2e/30a73556e8932887255b11d9ae82d2056733fafbb4699752e1f050a7fad7390d.jpg)
 
-**2h**
+**3h**
+
+![IMG_0059](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gepdpgCNTnw0v6kE8xLPnSCMAllTDM2e/30a73556e8932887255b11d9ae82d2056733fafbb4699752e1f050a7fad7390d.jpg)
 
 I planned out the layout components will be connected in and what components I will need in order to build my iPad DMX control system. I ordered the parts, including:
 - Ugreen iPad RJ45 Hub
