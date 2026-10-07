@@ -3,3 +3,4 @@ I am building this project as my entry for Hack Club’s Half Life project 2026
 Enjoy!
 
 Initial Plan:
+[Initial plan notes](IMG.jpeg)
